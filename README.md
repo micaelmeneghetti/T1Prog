@@ -10,3 +10,5 @@
 ### Tarefas
 
 - Na verdade,preciso de algo para guardar 20 inteiros. Preciso saber o maior e o menor deles também.
+
+- Na verdade, preciso de alguma coisa para guardar uma data. Preciso saber dias e ano, alem de horas.
